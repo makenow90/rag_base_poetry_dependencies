@@ -1,6 +1,25 @@
-## This is a poetry dependency file that can be used in the rag project.
+# RAG Project Dependencies
 
-#### Added contents
-1. My graphics card is 3090 and I used CUDA 11.8 version because it is stable in poetry.
-2. I added some modules to enable the use of the Jupyter environment.
-3. I used pdfplumber for pdf ocr, but you can use other modules as well.
+### Version 1.0
+
+- **CUDA 11.8**: Optimized for NVIDIA RTX 3090 GPU.
+- **Jupyter Support**: Includes necessary modules for Jupyter Notebook usage.
+- **PDF OCR**: Uses `pdfplumber` for PDF processing; feel free to swap with another module.
+
+### Installation
+
+1. **Create Project Directory**:
+   ```bash
+   mkdir rag_base
+   cd rag_base
+   ```
+
+2. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/makernow/rag_base_dependencies.git .
+   ```
+
+3. **Install Dependencies**:
+   ```bash
+   poetry install
+   ```
