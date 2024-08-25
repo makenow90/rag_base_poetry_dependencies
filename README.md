@@ -16,7 +16,7 @@
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/makernow/rag_base_dependencies.git .
+   git clone https://github.com/makernow/rag_base_poetry_dependencies.git .
    ```
 
 3. **Install Dependencies**:
