@@ -1,4 +1,4 @@
-# RAG Project Dependencies
+# rag_base_poetry_dependencies
 
 ### Version 1.0
 
