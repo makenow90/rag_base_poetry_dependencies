@@ -10,8 +10,8 @@
 
 1. **Create Project Directory**:
    ```bash
-   mkdir rag_base
-   cd rag_base
+   mkdir myproject
+   cd myproject
    ```
 
 2. **Clone the Repository**:
